@@ -3,4 +3,6 @@ This repository includes all assignments and projects during the bachelor's degr
 
 # CE212:Digital Systems
 
+# CE447: Machine Learning
+
 
