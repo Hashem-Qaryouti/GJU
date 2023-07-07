@@ -1,2 +1,2 @@
 # GJU
-This repository includes all assignments and projects during the bachelor degree of Computer Engineering
+This repository includes all assignments and projects during the bachelor's degree of Computer Engineering at German Jordanian University
